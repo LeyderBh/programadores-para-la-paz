@@ -1,0 +1,21 @@
+Cómo compartir información confiable en internet.
+
+1) busco la información.
+ 1.1) no encuentro la información.
+ /se continua con la búsqueda./
+ 1.2) encuentro la información.
+ /se continua al paso 2/
+2) corroboro la fuente
+ 2.1) si es confiable u oficial.
+ /puedo compartir con la confianza de que la información es original./
+ 2.2) es una fuente de terceros.
+ /se avanza al paso 3/
+3) verifico con la ayuda de otras fuentes y paginas de exposición de información falsa.
+ 3.1) la información es considerada falsa o se encuentran inconsistencias entre los distintos artículos relacionados.
+ /prefiero no compartir dicha información./
+ 3.2) la información coincide con otras fuentes y la fuente original, además que esta marcada como veraz.
+ /comparto la información./
+ 3.3) la información coincide con otras fuentes, pero no con la original y es marcada como manipulada.
+ /decido no compartir esta información./
+ 3.4) la información no coincide con otras fuentes, pero si con la original y es marcada como veraz.
+ /decido compartir la información y advertir de la manipulación de la misma./
