@@ -1,1 +1,12 @@
 Aqui pondre los comandos usados.
+
+use para esta actividad:
+
+<cd> para movilizarme entre las carpetas.
+<git status> revisar el estado de mi repositorio local.
+<mkdir semana2> para crear la carpeta que usare para la actividad.
+<touch> <nano> para crear y editar mis archivos para la actividad.
+<git add> para agregar mis cambios.
+<git commit> para registrar los cambios y nombrar las actualizaciones.
+<git push> para subir a github mis actividades.
+
