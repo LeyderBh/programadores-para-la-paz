@@ -1,0 +1,7 @@
+Explicación corta de los siguientes conceptos:
+
+Repositorio: Un repositorio es un espacio, usualmente digital, que se usa para almacenar, gestionar, organizar y preservar archivos, documentos o códigos fuente de algún proyecto.
+
+Commit: Un commit es como un punto de guardado de tu proyecto en un momento específico, sirve para ir llevando registro de los diferentes cambios que se van realizando a lo largo del proyecto, cada añadido, modificación o eliminación de código, es útil si en algún momento falla algo en el código se puede volver a un commit anterior donde todo funciona bien o corregir directamente cualquier error omitido antes.
+
+Push: El push es el acto de subir o enviar esos cambios al repositorio remoto, como bien puede ser GitHub, en el caso de GitHub usando Git el push se encarga de empujar como su nombre lo dice todos los cambios a su almacenamiento en la nube dentro de GitHub donde podemos visualizar cada commit de manera remota descargar versiones antiguas de nuestro código entre otras cosas útiles.
